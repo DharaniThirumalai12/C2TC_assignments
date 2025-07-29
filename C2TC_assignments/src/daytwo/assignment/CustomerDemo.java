@@ -1,7 +1,8 @@
-package day2.entity;
+package daytwo.assignment;
+
+import daytwo.Customer;
 
 public class CustomerDemo {
-
 	public static void main(String[] args) {
 		Customer c1=new Customer();
 		c1.setCid(101);
@@ -18,3 +19,4 @@ public class CustomerDemo {
 	System.out.println("The City of Customer 2 is: "+ c2.getCity());
 	}
 }
+
