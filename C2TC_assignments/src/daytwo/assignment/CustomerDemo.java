@@ -1,7 +1,4 @@
 package daytwo.assignment;
-
-import daytwo.Customer;
-
 public class CustomerDemo {
 	public static void main(String[] args) {
 		Customer c1=new Customer();
